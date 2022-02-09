@@ -1,0 +1,13 @@
+name = "Cornerback"
+uuid = "3208da53-b2ff-4872-8230-2a3debe4698a"
+authors = ["Victor B <victor.bourgin1@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
