@@ -3,6 +3,9 @@ uuid = "3208da53-b2ff-4872-8230-2a3debe4698a"
 authors = ["Victor B <victor.bourgin1@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+
 [compat]
 julia = "1.7"
 

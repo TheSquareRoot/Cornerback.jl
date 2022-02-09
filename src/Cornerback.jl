@@ -1,5 +1,8 @@
 module Cornerback
 
-# Write your package code here.
+include("ReceiverLogic.jl")
+include("CornerbackLogic.jl")
+
+export fade, post
 
 end
